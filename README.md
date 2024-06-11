@@ -1,7 +1,7 @@
 ﻿# secure_chat_room
 
 ## Overview
-The Secure Chat Room project is a web-based application designed to provide users with a secure platform for real-time communication. It ensures that messages exchanged between users are encrypted to maintain privacy and confidentiality.
+The Secure Chat Room project is a web-based application designed to provide users with a secure platform for real-time communication.
 
 ### Key Features:
 - **User Authentication and Authorization:**
