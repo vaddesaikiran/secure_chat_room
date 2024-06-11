@@ -102,6 +102,8 @@ To install and run the project locally, follow these steps:
 ### Prime vs Non-Prime Users
 - After registration/login, some users will have prime membership, while others will be non-prime.
 - Prime users have the privilege to create chat rooms, while non-prime users do not have access to this feature.
+- some of prime users are sai2024, munner2024
+- some of non prime users are rakesh2024, karthik2024
 
 ### Creating a Chat Room
 1. Prime users can navigate to the chat room creation page.
