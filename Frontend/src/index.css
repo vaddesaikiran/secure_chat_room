@@ -1,0 +1,12 @@
+:root {
+    --authentication-button-bg-color: #8072af;
+    --nav-bg:#a5d8e6;
+  }
+
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+  

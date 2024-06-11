@@ -1,0 +1,42 @@
+.sidebar-container{
+    width:25%;
+    padding: 5px;
+    position: relative;
+    background-color: var(--authentication-button-bg-color);
+    height:calc(100vh - 64px);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:10px;
+    
+}
+
+.sidebar-sub-container > button {
+    width: 100%;
+    height:40px;
+}
+
+.sidebar-sub-container {
+    display:flex;
+    width: 100%;
+}
+
+.chatroom-container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    
+    width:100%;
+    
+}
+
+.chatroom-container > button {
+    width:100%;
+    height:30px;
+    
+}
+
+.sidebar-big-container{
+    width:100%;
+    background-color: red;
+}
