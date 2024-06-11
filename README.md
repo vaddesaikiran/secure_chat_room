@@ -80,10 +80,10 @@ To install and run the project locally, follow these steps:
 - `POST /api/register`: Register a new user.
 - `POST /api/login`: Log in with existing credentials.
 - `GET /api/logout`: Log out the current user.
-- `POST /api/create-room`: Create a new chat room.
-- `POST /api/join-room/:roomId`: Join an existing chat room.
-- `POST /api/send-message/:roomId`: Send a message in a specific chat room.
-- `GET /api/get-messages/:roomId`: Get all messages in a specific chat room.
+- `POST /api/chatrooms`: Create a new chat room.
+- `POST /api/joinroom/:roomId`: Join an existing chat room.
+- `POST /api/messages/:roomId`: Send a message in a specific chat room.
+- `GET /api/messages/:roomId`: Get all messages in a specific chat room.
 
 ## Usage
 
